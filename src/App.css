@@ -1,0 +1,22 @@
+.MuiButton-root {
+  
+  margin: 5px;
+  
+}
+
+.MuiPaper-root {
+  text-align: center;
+  margin: 5px;
+  
+}
+
+.MuiCard-root {
+  text-align: left;
+  margin: 5px;
+  
+}
+
+.MuiSelect-root {
+  width: 100px ;
+  margin: 5px
+}
